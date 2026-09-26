@@ -19,7 +19,11 @@ function App() {
         <Education />
         <Contact />
         <Footer />
-        <img src="/profile.jpg" className="profile" alt="Sumit" />
+        <img
+  src={`${import.meta.env.BASE_URL}profile.jpg`}
+  className="profile"
+  alt="Sumit"
+/>
 
         <h1>Sumit Kumar Singh</h1>
 

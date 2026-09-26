@@ -6,7 +6,7 @@ export default function Projects() {
       <div className="project-grid">
 
         <div className="card">
-          <img src="/project1.jpg" alt="project" />
+         <img src={`${import.meta.env.BASE_URL}project1.jpg`} alt="project" />
 
           <div className="content">
             <h3>Academic Student Management System</h3>
@@ -19,7 +19,7 @@ export default function Projects() {
         </div>
 
         <div className="card">
-          <img src="/project2.jpg" alt="project" />
+          <img src={`${import.meta.env.BASE_URL}project2.jpg`} alt="project" />
 
           <div className="content">
             <h3>Flight Management System</h3>

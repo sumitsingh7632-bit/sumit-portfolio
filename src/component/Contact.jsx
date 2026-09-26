@@ -11,10 +11,20 @@ export default function Contact() {
         <h3>+91 7632073035</h3>
 
         <p>💻 GitHub</p>
-        <h3>sumitsingh7632-bit</h3>
+        <a
+  href="https://github.com/sumitsingh7632-bit"
+  target="_blank"
+>
+  sumitsingh7632-bit
+</a>
 
         <p>🔗 LinkedIn</p>
-        <h3>sumit kumar singh</h3>
+      <a
+  href="https://linkedin.com/in/sumit-kumar-singh"
+  target="_blank"
+>
+  Sumit Kumar Singh
+</a>
       </div>
     </section>
   );

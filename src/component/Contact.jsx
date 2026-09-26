@@ -19,9 +19,10 @@ export default function Contact() {
 </a>
 
         <p>🔗 LinkedIn</p>
-      <a
-  href="https://linkedin.com/in/sumit-kumar-singh"
+     <a
+  href="https://www.linkedin.com/in/sumit-kumar-singh-028399329/"
   target="_blank"
+  rel="noreferrer"
 >
   Sumit Kumar Singh
 </a>
